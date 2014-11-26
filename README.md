@@ -30,6 +30,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#mapsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Camera](#cameraui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Charts](#chartsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#otherui)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Location](#location)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
@@ -127,6 +128,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Rounded ImageView](https://github.com/vinc3m1/RoundedImageView) | a fast ImageView that supports rounded corners and ovals or circles
 [Flip ImageView](https://github.com/castorflex/FlipImageView) | Small android lib allowing you to make a flip imageview easily, by extending FlipImageView
 [Glide](https://github.com/bumptech/glide) | An image loading and caching library for Android focused on smooth scrolling
+[Circular ImageView](https://github.com/Pkmmte/CircularImageView) | Custom view for circular images in Android while maintaining the best draw performance
 
 ###### <a name="progressbar">ProgressBar
 
@@ -268,6 +270,9 @@ Collection if libraries starred during some years of Android Development. Here i
 [Sticky List Headers](https://github.com/emilsjolander/StickyListHeaders) | An android library for section headers that stick to the top
 [Android ScrollBar Panel](https://github.com/rno/Android-ScrollBarPanel) | Android ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0
 [Foldable Layout](https://github.com/alexvasilkov/FoldableLayout) * | Android widgets to implement folding animation
+[Animation Easing Functions](https://github.com/daimajia/AnimationEasingFunctions) | Android Animation Easing Functions. Let's make animation more real!
+[Android View Animations](https://github.com/daimajia/AndroidViewAnimations) | Cute view animation collection
+
 
 #### <a name="mapsui">Maps
 
@@ -286,6 +291,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Easy Camera](https://github.com/Glamdring/EasyCamera) | Wrapper around the android Camera class that simplifies its usage
+
+#### <a name="chartsui">Charts
+
+| Title | Description |
+| :----------: | :--------: |
+[Eaze Graph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library
 
 #### <a name="otherui">Other
 
@@ -523,11 +534,15 @@ http://square.github.io/otto/
 
 | Title | Description |
 | :----------: | :--------: |
+[Financius](https://github.com/mvarnagiris/Financius) | Personal expense manager
 [Gaug.es Android](https://github.com/fastestforward/gauges-android) | Gaug.es Android App
 [White House Android](https://github.com/WhiteHouse/wh-app-android) | White House application for Android
 [Ac Display](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. http://acdisplay.artemchep.com
 [Google I/O](https://github.com/google/iosched) | Google I/O application
 [Wordpress Android](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android. http://android.wordpress.org
+[One Bus Away](https://github.com/OneBusAway/onebusaway-android) | The official Android app for OneBusAway. 
+http://www.onebusaway.org/
+
 <br><br>
 
 
